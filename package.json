@@ -1,0 +1,11 @@
+{
+  "name": "bili-share-link-cleaner",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "assets": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/generate-assets.ps1",
+    "package": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/package.ps1",
+    "test": "node tests/cleaner.test.mjs"
+  }
+}
