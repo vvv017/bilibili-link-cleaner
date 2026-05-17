@@ -45,6 +45,8 @@ npm run assets
 - 擴充套件圖示：`assets/icons/`
 - Chrome Web Store 上架素材：`store-assets/`
 
+`assets/icons/` 是擴充套件執行時需要的檔案，會提交到 GitHub。`store-assets/` 只用於 Chrome Web Store 後台上架，預設不提交到 GitHub。
+
 ## 打包 Chrome Web Store ZIP
 
 ```bash
