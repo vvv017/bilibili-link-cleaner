@@ -2,6 +2,8 @@
 
 中文 | English
 
+[Chrome Web Store](https://chromewebstore.google.com/detail/fmoffogeilchfilofdkccphjadfoacnp)
+
 ## 簡介 / Overview
 
 一個 Chrome/Edge Manifest V3 瀏覽器擴充套件。打開 Bilibili 後，使用網站的分享/複製功能時，擴充套件會把剪貼簿內容清理成可直接訪問的影片網址。
@@ -65,6 +67,10 @@ npm run assets
 `store-assets/` contains Chrome Web Store listing images only. It is generated locally and is not committed to GitHub.
 
 ## Chrome Web Store
+
+上架連結 / Published listing:
+
+https://chromewebstore.google.com/detail/fmoffogeilchfilofdkccphjadfoacnp
 
 上架文案、隱私欄位、權限說明和素材路徑整理在 `STORE_LISTING.md`。
 
