@@ -24,10 +24,14 @@ https://www.bilibili.com/video/BV1CC5R6aEV7/
 
 ## 安裝 / Installation
 
+### 中文
+
 1. 打開 Chrome 或 Edge 的擴充套件管理頁。
 2. 開啟「開發人員模式」。
 3. 點「載入未封裝項目」。
 4. 選擇這個資料夾：`Z:\code\bilisharelink`
+
+### English
 
 1. Open the extensions management page in Chrome or Edge.
 2. Enable Developer mode.
